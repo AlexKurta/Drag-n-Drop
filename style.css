@@ -1,0 +1,23 @@
+html, body, body>div {
+  height: 100%;
+  width: 100%;
+  margin: 0;                
+}
+.element {
+  width: 100px;
+  height: 100px;
+  position: absolute;  
+}
+.yellow {              
+  background: yellow;
+}
+.blue {
+  background: blue;
+  top: 100px;
+  left: 100px;
+}
+.red {
+  background: red;
+  top: 200px;
+  left: 200px;
+}
